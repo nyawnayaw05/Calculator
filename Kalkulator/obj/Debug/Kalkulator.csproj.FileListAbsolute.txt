@@ -1,0 +1,10 @@
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\ITS\Semester 5\PBKK\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
